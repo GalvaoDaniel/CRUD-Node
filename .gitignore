@@ -1,0 +1,21 @@
+#========================================
+# Created with ChatGPT
+#========================================
+
+# Dependency directories
+/node_modules
+/npm-debug.log*
+/yarn-error.log*
+/.pnp
+
+# Production build directory
+/dist
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
